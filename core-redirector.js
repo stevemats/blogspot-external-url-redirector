@@ -12,10 +12,10 @@
 //<![CDATA[
 var key = window.location.href.split(“go/”)[1].replace(“/”,””)
 var urls={
-‘insta’:’https://www.instagram.com/sysa_shoaiyb’,
-‘facebook’:’https://www.facebook.com/realshoaiyb’,
-‘twitter’:”https://twitter.com/shoaiybsysa”,
-‘github’:”https://github.com/shoaiyb”,
+‘insta’:’https://www.instagram.com/your-username’,
+‘facebook’:’https://www.facebook.com/your-username’,
+‘twitter’:”https://twitter.com/your-username”,
+‘github’:”https://github.com/your-username”,
 }
 if(key){
 if(urls[key]){
